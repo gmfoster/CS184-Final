@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809664823756",
+    "firebase_url": "https://trackmeet-c4667.firebaseio.com",
+    "project_id": "trackmeet-c4667",
+    "storage_bucket": "trackmeet-c4667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809664823756:android:9dc1f0d6a9c6239a0bdd69",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.gfoster.gfostercdalyfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809664823756-f58bnffsoa5kgnbi25ege8abj2ju2s3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucsb.cs.cs184.gfoster.gfostercdalyfinalproject",
+            "certificate_hash": "ce6d0bc815ebd03cc135c690637a1933031d1328"
+          }
+        },
+        {
+          "client_id": "809664823756-kk8onjogq91eb3o4go9b7nd8a8dl46f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgYym9pg3N2Q5lZ6j60iVzdCUOqvbbAyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809664823756-kk8onjogq91eb3o4go9b7nd8a8dl46f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

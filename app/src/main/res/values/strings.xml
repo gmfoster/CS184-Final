@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gfostercdalyfinalproject</string>
+    <string name="action_sign_in_admin">Admin : Sign in or register</string>
+    <string name="action_sign_in_attendee">Attendee : Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">username</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="attendee_registered_message">Your device is now registered. Please keep bluetooth enabled. If you want to change assicaited email or username please register again.</string>
+
+</resources>
